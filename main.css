@@ -1,0 +1,115 @@
+.equal-button {
+  font-size: 20px;  
+  border-color: brown;
+}
+.equal-button {width: 80px;}
+.first-button {font-size: 150%;
+  color: rgba(46, 14, 10, 0.863);
+  border-top-right-radius:5px;
+  font-display: 10px;
+  margin-right: 7px;
+  margin-left: 5px;
+  
+}
+
+.second-button {font-size: 150%;
+  color: rgba(46, 14, 10, 0.863);
+  border-top-right-radius:5px;
+  font-display: 10px;
+  margin-inline: 10px;
+  
+}
+
+.third-button {font-size: 150%;
+  color: rgba(46, 14, 10, 0.863);
+  border-top-right-radius:5px;
+  font-display: 10px;
+  margin-inline: 10px;
+  
+}
+
+.multiple-button {font-size: 150%;
+  color: rgba(46, 14, 10, 0.863);
+  border-top-right-radius:5px;
+  font-display: 10px;
+  margin-inline: 10px;
+  
+}
+
+.fourth-button {font-size: 150%;
+  color: rgba(46, 14, 10, 0.863);
+  border-top-right-radius:5px;
+  font-display: 10px;
+  margin-inline: 7px;
+  margin-left: 5px;
+  
+}
+
+.fifth-button {font-size: 150%;
+  color: rgba(187, 108, 108, 0.733);
+  border-top-right-radius:5px;
+  font-display: 10px;
+  margin-inline: 10px;
+  
+}
+.sixth-button {font-size: 150%;
+  color: rgba(187, 108, 108, 0.733);
+  border-top-right-radius:5px;
+  font-display: 10px;
+  margin-inline: 10px;
+  
+}
+.subtraction-button {font-size: 150%;
+  color: rgba(187, 108, 108, 0.733);
+  border-top-right-radius:5px;
+  font-display: 15px;
+  margin-inline: 10px;
+  
+}
+
+.seventh-button {font-size: 150%;
+  color: rgba(187, 108, 108, 0.733);
+  border-top-right-radius:5px;
+  font-display: 10px;
+  margin-inline: 7px;
+  margin-left: 5px;
+
+}
+
+.eight-button {font-size: 150%;
+  color: rgba(187, 108, 108, 0.733);
+  border-top-right-radius:5px;
+  font-display: 10px;
+  margin-inline: 10px;
+  
+}
+.ninth-button {font-size: 150%;
+  color: rgba(187, 108, 108, 0.733);
+  border-top-right-radius:5px;
+  font-display: 10px;
+  margin-inline: 10px;
+  
+}
+
+.addition-button {font-size: 150%;
+  color: rgba(187, 108, 108, 0.733);
+  border-top-right-radius:5px;
+  font-display: 10px;
+  margin-inline: 10px;
+  
+}
+.division-button {font-size: 150%;
+  color: rgba(187, 108, 108, 0.733);
+  border-top-right-radius:5px;
+  font-display: 10px;
+  margin-inline: 10px;
+  
+}
+
+.zero-button {font-size: 150%;
+  color: rgba(187, 108, 108, 0.733);
+  border-top-right-radius:5px;
+  font-display: 10px;
+  margin-inline: 10px;
+  
+}
